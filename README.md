@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ARBrachet, I am currently a PhD student working on Physical Informed AI at CentraleSupélec MICS and AIMAC
+- 👋 Hi, I’m @ARBrachet, I am currently a PhD student working on AI, time-series, at CentraleSupélec MICS and AIMAC
 - 📫 You can reach me at alexisraja.brachet@centralesupelec.fr
